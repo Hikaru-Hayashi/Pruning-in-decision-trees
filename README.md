@@ -4,6 +4,8 @@
 
 #### 使用データセット
 * 'load_breast_cancer'（乳がんのデータセット）
+* 'make_classification' （sckit-learnの実験用疑似データ）
 
 ### 取り組んだこと
 * 事前剪定と事後剪定による精度の変化を比較検証するためのNotebookを作成
+* 事前剪定と事後剪定の計算時間の比較
